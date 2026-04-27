@@ -14,9 +14,14 @@ http://sarthak-static-site-2026.s3-website.ap-south-1.amazonaws.com/
 
 ## Screenshots
 
-1. S3 Bucket with files
-2. Versioning showing multiple versions
-3. Lifecycle rule configuration
+### 1. S3 Bucket
+![S3 Bucket](screenshots/bucket.png)
+
+### 2. Versioning
+![Versioning](screenshots/versioning.png)
+
+### 3. Lifecycle Rule
+![Lifecycle](screenshots/lifecycle.png)
 
 ## Challenges Faced
 
